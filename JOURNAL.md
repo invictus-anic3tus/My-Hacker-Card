@@ -5,7 +5,7 @@ description: "A simple PCB hacker card, complete with NFC."
 created_at: "2025-07-20"
 ---
 
-## Total time: 7 hrs
+## Total time: 8 hrs
 
 ## log
 
@@ -45,3 +45,11 @@ today i made sure that my pcb + schematic would work, sourced parts on digikey (
 
 
 #### 2 hrs
+
+### day four - july 30
+
+today I finally submitted!
+
+yippe
+
+1 hr
