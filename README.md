@@ -3,6 +3,8 @@ Anicetus's PCB business card!
 
 It has an NFC chip and antenna, allowing a phone to instantly go to a link (in my case, my website at <https://anicetus.dev>) when tapping the card. It lights a small green LED when doing so. The back of the card has QR codes linking to my website, github, and email in the form of a mailto link.
 
+I wanted this to give out to, say, possible employers or something at job interviews. Or just as an easy way to get more website visits.
+
 This project was graciously funded by Hack Club's [Highway](https://highway.hackclub.com/) program, allowing hackers and makers to build their own hardware projects for free!
 
 <img width="720" height="534" alt="image" src="https://github.com/user-attachments/assets/04cf92ec-b89c-42c2-a381-96a852f5aa7d" />
